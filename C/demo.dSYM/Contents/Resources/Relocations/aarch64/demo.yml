@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/deveshsingh/Downloads/BackendLearning/C-Learning/C/demo'
+relocations:     []
+...
